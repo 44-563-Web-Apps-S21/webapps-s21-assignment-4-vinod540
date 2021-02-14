@@ -103,13 +103,37 @@ table.striped tr.even td{
 }
 .aegeon:hover {
     text-shadow: 2px 2px red;
-    box-shadow: 3px 3px black;
+    box-shadow: 2px 2px black;
 }
 .duke-solinus:hover {
-    text-shadow: 2px 2px red;
-    box-shadow: 3px 3px black;
+      text-shadow: 2px 2px red;
+      box-shadow: 3px 3px black;
 }
 .gaoelr:hover {
     text-shadow: 2px 2px red;
-    box-shadow: 3px 3px black;
+    box-shadow: 2px 2px black;
+    }
+/*nav bar in bonus page*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
