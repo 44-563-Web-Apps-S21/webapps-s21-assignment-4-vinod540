@@ -101,3 +101,15 @@ table.striped td{
 table.striped tr.even td{
     background-color: #E1FFE1;
 }
+.aegeon:hover {
+    text-shadow: 2px 2px red;
+    box-shadow: 3px 3px black;
+}
+.duke-solinus:hover {
+    text-shadow: 2px 2px red;
+    box-shadow: 3px 3px black;
+}
+.gaoelr:hover {
+    text-shadow: 2px 2px red;
+    box-shadow: 3px 3px black;
+}
